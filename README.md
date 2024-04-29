@@ -3,4 +3,4 @@
 DevOps 특강 1일차
 
 CodeBuild, CodeDeploy, IAM 설정
-Deploy Step test
+Deploy Step test2
